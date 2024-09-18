@@ -80,7 +80,7 @@ header{
 }
 
 .navigation .btnlogin-popup:hover{
-    background:  rgb(94,116,122);
+    background:  rgb(28,186,230);
     color: black;
 }
 
@@ -147,7 +147,7 @@ header{
     right: 0;
     width: 45px;
     height: 45px;
-    background: rgb(94,116,122);
+    background: rgb(28,216,223);
     font-size: 2em;
     color: black;
     display: flex;
