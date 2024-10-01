@@ -67,7 +67,7 @@ header{
 .navigation .btnlogin-popup{
     width: 130px;
     height: 50px;
-    background: transparent ;
+    background: white ;
     /* border: 2px solid #fff; */
     border-radius: 20px;
     outline: none;
